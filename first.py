@@ -7,7 +7,8 @@ Created on Tue Sep 11 21:49:22 2018
 #importing the libraries
 import os
 import sys
-import pandas as pd
+import numpy as np
+
 
 print(sys.version)
 print("My first python code")
